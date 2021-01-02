@@ -1,3 +1,4 @@
 <?php
-  echo "Work"; 
+  echo "Work";
+  echo "New text";
 ?>
